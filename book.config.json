@@ -1,0 +1,23 @@
+{
+  "title": "The Golden Ticket Trials",
+  "subtitle": "Five Strangers. One Manor. A Fortune That Doubles.",
+  "genre": "Competition / Strategic Drama",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "Five people from five countries each receive a golden ticket to Blackmoor Manor, where every challenge they survive doubles their personal pot — starting at a million and compounding with each round. But the tickets were rigged: only one can leave with the full vault, and the others leave with nothing but the memory of what they betrayed. Alliances form in the dining room and shatter in the maze. The manor always collects its due.",
+  "style": "Drawing-room-meets-arena suspense. Witty, psychological, dinner-table betrayals and midnight trials. Mr. Beast's multiply-your-prize hook wrapped in a locked-room mystery.",
+  "characters": "Olú (Nigerian coder who calculates every odds), Béa (French chef who bargains with food), Tomas (Brazilian footballer trading favors), Yuki (Japanese pianist who reads people), Raj (Indian journalist hunting the manor's secret). Plus the Steward, who serves the trials and hides the truth.",
+  "setting": "Blackmoor Manor — a sentient-looking estate with a vault that glows, gardens that rearrange, and a clock tower that rings only when someone is eliminated.",
+  "notes": "Pot-doubling prize mechanic; one winner takes all. Make each trial clever and the backstab inevitable. Keep the prize intoxicating.",
+  "chapterTitle": "Chapter",
+  "mdFiles": [
+    "book.md"
+  ],
+  "htmlFiles": [
+    "book.html"
+  ],
+  "indexInject": null,
+  "mdHeadingLevel": 2,
+  "targetWords": 2000,
+  "apiTimeoutMs": 600000,
+  "maxTokens": 16384
+}
