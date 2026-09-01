@@ -96,5 +96,85 @@ He found it in the library, in a book that had been hollowed out to hide a small
 
 Raj read the entry three times, then closed the journal and slipped it into his coat. He was no longer a contestant. He was a journalist, and he'd just found the story of a lifetime.
 
+## The Cassoulet Trial
+
+The dining hall had transformed. Where silver and crystal had once gleamed beneath the chandeliers, now five white-draped tables stood in a loose pentagram, each bearing a single covered dish and a single chair. The candles had been replaced with low-burning oil lamps that cast long shadows across the parquet floor, and the air was thick with the mingled aromas of the dishes that had been carried in from the kitchen.
+
+The Steward stood at the head of the room, his hands clasped behind his back, his face unreadable as ever. The clock tower outside was silent, but the manor seemed to hold its breath, the walls leaning in like spectators at a duel.
+
+"Welcome to the Cassoulet Trial," the Steward said. His voice carried no warmth, no menace — only the flat certainty of a man who had read this scene a hundred times before. "Each of you has prepared a dish. Each dish contains a secret — a truth you have carried, a weight you have dragged through the rooms of this house. In a moment, you will each taste the others' offerings. But before you do, you must declare your own."
+
+He gestured to the tables. "When you stand before your dish, you will speak the secret it contains. You will do so aloud, before this company. And then — and only then — will the tasting begin."
+
+Olú was the first to move. He crossed to his table with the measured stride of a man walking to a verdict, lifted the lid from his pepper soup, and let the steam curl upward like incense.
+
+"My secret," he said, "is that I ruined a man to build myself." His voice was steady, rehearsed. "My partner, Ade. We built our first platform together, in a rented room in Yaba. He wrote half the code. I took all the credit. When the investors came, I made sure they saw only me. When the company sold, I made sure he got nothing." He paused, letting the words settle. "He tried to start over. He couldn't. Last I heard, he was driving a taxi in Surulere."
+
+He lifted his chin, meeting each of their eyes in turn. "That's my secret. It's true. And it costs me nothing to tell."
+
+Béa went next. She uncovered her cassoulet with the reverence of a priest revealing a relic, and the scent of duck fat and beans rolled across the room like a wave.
+
+"My secret is named Léo," she said. "My brother. I left the gas on when I was fifteen. He was twelve. He died in the fire. I walked away — not from the kitchen, from the truth. I let my family call it an accident. I let them grieve a tragedy instead of a murder by carelessness." Her hands were steady on the rim of the pot. "I have carried that guilt for twenty years. I have cooked it into every dish I've ever made. Now I'm serving it to you."
+
+She stepped back, her face a mask of composure, but her knuckles were white against the table's edge.
+
+Tomas uncovered his feijoada without ceremony. The black beans gleamed like wet stones, and the smell of pork and garlic filled the space between the other dishes' aromas.
+
+"My secret is shame," he said. "When I was a boy in São Paulo, this was all we had. Black beans and rice, week after week, while my mother worked double shifts at a laundry. When I became famous, I was ashamed of it. I told people I grew up middle-class. I told my teammates I'd never eaten a poor man's stew." He laughed, short and bitter. "My own mother, cooking this in her tiny kitchen, and I couldn't even admit she existed."
+
+He stepped back, arms crossed. "There. That's my truth. It's small and it's ugly and it's mine."
+
+Yuki approached her table with the delicate precision of a pianist settling at a keyboard. She uncovered the ochazuke, the steaming bowl of rice and tea, and bowed her head for a moment before speaking.
+
+"My secret is resentment," she said. "My grandmother raised me after my parents died. She was a pianist too — a concert pianist, once. But her hands failed her, and she was left with nothing but me and her memories." Yuki's voice was soft, almost inaudible. "I resented her for that. For being weak. For being a burden. I wished for a different family, a different life. I wished she would disappear."
+
+She looked up, and there was something raw in her eyes. "She did disappear. In a hospital room, while I was at a competition. I didn't answer my phone. They couldn't reach me." She smoothed her dress with trembling fingers. "That's my secret. I wished her gone, and then she was."
+
+Silence fell over the room. Four secrets lay on the table like slaughtered birds, their wings still twitching with remembered life.
+
+The Steward's gaze moved to Raj, who had not yet approached his table. His dish sat under its cover, untouched, and he stood beside it with his hands in his pockets, looking like a man who had already left the room.
+
+"Mr. Sharma," the Steward said. "Your secret."
+
+Raj smiled. It was not a warm smile. "I have no secret to offer."
+
+The room shifted. Béa's eyes narrowed. Tomas uncrossed his arms. Olú's hand went to his chin, a coder's tic when the logic failed.
+
+"The trial requires a secret," the Steward said. "Every contestant must offer one."
+
+"Contestant," Raj repeated. "That's an interesting word. You keep saying it. But we're not contestants, are we? We're subjects."
+
+He lifted the cover from his dish. Beneath it was a single sheet of paper, folded into a triangle, resting on a plate of white porcelain.
+
+"This is my dish," he said. "It contains a secret. But it's not my secret. It's yours — the manor's. The previous Steward's."
+
+He unfolded the paper. The handwriting was cramped, the ink faded, but the words carried across the room like a bell.
+
+"'The vault does not hold money. The vault holds a choice.'"
+
+The Steward's face, for the first time, flickered. It was barely a movement — a tightening around the eyes, a compression of the lips — but it was there.
+
+"According to this journal," Raj continued, "the manor has run this trial for over sixty years. The golden tickets, the compounding prize, the promises of wealth — it's all a stage. The vault has never opened for anyone. It's not a vault of money. It's a vault of something else entirely."
+
+He folded the paper and tucked it back into his coat. "So I'm not offering a secret. I'm offering a question: What does the vault actually contain?"
+
+The room went very still. The oil lamps guttered. Somewhere in the walls, the manor's pipes groaned like a sleeping animal stirring.
+
+The Steward looked at Raj for a long moment, and then he did something none of them had seen him do before. He laughed.
+
+It was a dry, creaking sound, like a door opening after decades of disuse. "You found the journal in the library. Hollowed-out book, third shelf, left of the fireplace."
+
+"Yes."
+
+"I put it there."
+
+The words hung in the air. Raj's expression didn't change, but his hand drifted to his coat pocket, where the journal rested.
+
+"I put it there," the Steward repeated, "for the one who would look past the prize. The one who would ask what the game is actually for." He stepped forward, his shadow swallowing the light of the nearest lamp. "You've passed the trial, Mr. Sharma. Not by offering a secret — but by finding the one I've been hiding."
+
+He turned to the others. "The dish trial is concluded. The vault will open tonight. But it will not open for all of you."
+
+The clock tower began to toll.
+
 ---
 
