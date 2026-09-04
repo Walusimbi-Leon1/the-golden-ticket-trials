@@ -176,5 +176,159 @@ He turned to the others. "The dish trial is concluded. The vault will open tonig
 
 The clock tower began to toll.
 
+## Chapter 17: The Vault's Hunger
+
+The clock tower's tolling filled the manor like a heartbeat made of bronze. One. Two. Three. Four. Five. Six. Seven. Eight. Nine. Ten. Eleven. Twelve — and then it stopped, leaving the silence ringing in its wake.
+
+The Steward's face had settled back into its familiar mask, but something had changed in the room. The air itself seemed thicker, charged with the kind of electricity that precedes a storm. The five of them stood frozen at their stations, the steam from their dishes curling upward like incense at a funeral.
+
+"Twelve tolls," Yuki said softly, her voice barely above a whisper. "There are five of us. Twelve has no meaning."
+
+"Thirteen would mean elimination," Olú said, his coder's brain already running the numbers. "Twelve is... something else. Something that hasn't happened yet."
+
+The Steward walked past them, his heels clicking on the marble floor with a rhythm that felt like a countdown. He stopped at the far wall, where a tapestry depicting a hunting scene hung between two suits of armor. He reached behind the tapestry and pulled something — a lever, hidden in shadow — and the wall split with the groan of ancient stone.
+
+Beyond it, a corridor sloped downward, lined with torches that flared to life in sequence as if welcoming them.
+
+"The vault," the Steward said, "is hungry tonight."
+
+Tomas stepped forward, his football player's instincts making him first to test the ground. "What does that mean — hungry?"
+
+"It means," the Steward said, "that it has waited sixty years for this particular gathering. It has fed on secrets and fears and small betrayals. But it has never tasted what you will offer it tonight."
+
+Raj's hand was still in his coat pocket, fingers wrapped around the journal. "The journal says the vault doesn't hold money. What does it hold?"
+
+"Come," the Steward said, gesturing down the corridor. "See for yourself."
+
+They moved as a group, though none of them consciously chose to walk together. The corridor narrowed as it descended, the stone walls closing in until they could almost touch both sides with outstretched arms. The torches flickered with a flame that burned unnaturally white, casting no shadows.
+
+Béa was the first to speak. "You told us this was a trial about secrets. But Raj didn't offer one, and you declared him the victor. So what was the point of our confessions?"
+
+"The point," the Steward said without turning, "was to see who would expose themselves and who would expose the game. You all performed beautifully."
+
+They emerged into a vast chamber — circular, domed, its walls covered in murals that seemed to shift as they watched, scenes of people giving things to a great golden door. At the center of the chamber stood the vault.
+
+It was smaller than any of them had imagined. No towering bank door, no gleaming fortress of steel. Instead, it was a simple iron door, perhaps seven feet tall, set into a frame of carved black stone. The door was covered in symbols — some familiar, some alien — and from the seams between door and frame, a soft golden light bled like spilled honey.
+
+"There it is," the Steward said. "Sixty years of trials, six decades of secrets fed into this room, and it all comes down to this door."
+
+Olú was already studying the symbols. "Those aren't random. They're a sequence — a key of some kind. But they're not consistent with any encryption method I know."
+
+"They're not meant to be decoded," Raj said. He had pulled the journal from his pocket and was flipping through it, his eyes scanning pages he'd clearly memorized. "They're meant to be chosen."
+
+"What does that mean?" Yuki asked.
+
+Raj looked up. "The journal describes this moment. The final trial. It says the vault opens only for one, and that one must decide what the vault contains. Not discover it — decide it."
+
+The Steward's eyes gleamed. "The journalist has read well."
+
+"So it's not a puzzle," Tomas said slowly. "It's a choice."
+
+"Five of you stand before the vault. One of you will open it. But the vault doesn't open for a key — it opens for an offering." The Steward's voice dropped, conspiratorial. "Each of you carries something the vault wants. Your secrets, your fears, your hopes. The question is which one of you will give enough of themselves to satisfy it."
+
+Béa's hand went to her throat. "Give... what, exactly?"
+
+"The vault will tell you." The Steward stepped back, merging with the shadows at the chamber's edge. "Approach it. Touch it. See what it asks of you."
+
+No one moved for a long moment. Then Yuki stepped forward, her movements fluid and precise, her eyes fixed on the golden light spilling from the door's seams. She pressed her palm against the iron.
+
+The light flared. The symbols on the door rearranged themselves, forming a pattern that none of them recognized. And a voice — not from the Steward, not from any of them, but from the door itself — spoke in a language that was no language at all, yet every one of them understood.
+
+*You carry a grief so old it has become your skin. Give it to me, and I will open.*
+
+Yuki's hand trembled against the iron. Tears slipped down her cheeks, but she didn't wipe them away. "My grandmother," she whispered. "You want me to give you my grandmother."
+
+*Not her. The grief. The weight. Let it go, and the door will move for you.*
+
+For a moment — a fraction of a heartbeat — Yuki's fingers seemed ready to press deeper, to surrender. Then she pulled back, shaking her head, her breath ragged. "I can't. It's all I have left of her."
+
+The light dimmed. The symbols returned to their original configuration. The vault, unsatisfied, settled back into silence.
+
+The Steward's voice came from the shadows, carrying a note of something almost like pity. "The vault does not take what is easy to give. It takes what you cannot imagine losing."
+
+Tomas stepped forward next. He didn't hesitate, didn't tremble. He put both hands flat against the door, his body language that of a man confronting an opponent. "What do you want from me? My fame? My money? Take it. I've been rich and I've been poor. None of it matters."
+
+The symbols shifted. The voice spoke again.
+
+*You carry a shame that has made you a stranger to your own mother. Give me the lie, and I will open.*
+
+Tomas laughed — a harsh, broken sound. "My lie? Which one? I've told so many I've lost count."
+
+*The one you told yourself. That you deserved what you earned, that you had no debts to pay, that the boy who ate black beans and rice no longer exists. Give me that boy, and I will open.*
+
+Tomas's hands dropped from the door. He stepped back, his face white. "He's all I am," he said, so quietly it was almost lost. "Without him, I'm nothing but a name on a jersey."
+
+The vault dimmed again.
+
+Olú approached with the careful calculation of a man who had never trusted anything he couldn't quantify. He touched the door with a single finger, as if testing it for heat.
+
+*You carry a betrayal that built your empire. Give me the man you ruined, and I will open.*
+
+"Ade," Olú said. "You want me to give you Ade."
+
+*Not him. The guilt. The weight of what you did. Shed it, and the door will open for you.*
+
+Olú stood very still, his hand on the iron, his eyes fixed on the symbols that flickered with his unspoken answer. The silence stretched. The others watched him, their breath held.
+
+"No," he said at last. "I earned that guilt. It's the only honest thing I've ever owned."
+
+He stepped back, and the vault's light receded.
+
+Béa approached, her hands clasped in front of her, her chef's posture impeccable even here. She placed her palms flat on the door with the kind of deliberate calm she brought to every dish she'd ever plated.
+
+*You carry a blame that has haunted you since childhood. Give me your brother, and I will open.*
+
+"Léo," Béa said. "You want my brother."
+
+*Not his memory. The guilt. The belief that you killed him. Let it go, and the door will move.*
+
+Béa's eyes closed. For a long moment, she was utterly still, and the room seemed to hold its breath with her. Then she opened her eyes, and there was something fierce in them. "No," she said. "I've cooked with that guilt for twenty years. It seasons everything I make. Without it, my food would be flavorless."
+
+The vault dimmed, and Béa stepped back to join the others.
+
+All eyes turned to Raj.
+
+He hadn't moved from his position near the chamber's entrance. The journal was closed in his hands, his expression unreadable. He looked at the vault — at the golden light, the shifting symbols, the ancient iron — and he smiled.
+
+"You've taken secrets," he said. "You've taken grief, shame, guilt, blame. You've asked each of them to surrender the weight they carry. And you call that a choice?"
+
+The Steward's voice came from the shadows. "The vault asks for what you hold dearest. That is the nature of the price."
+
+"No," Raj said. "That's the nature of the trap." He walked toward the vault, and there was something different in his stride now — not the swagger of a man who knew a secret, but the certainty of a man who had found the truth. "You've designed this trial to make us give up something. To prove we're willing to sacrifice. But that's not what the journal says."
+
+He stopped before the door, close enough that the golden light bathed his face. "The journal says the vault holds a choice. Not a sacrifice. A choice."
+
+He placed his hand on the iron. The symbols stilled, as if the door itself was listening.
+
+The voice spoke, but this time it was different — no longer a whisper of temptation, but a question.
+
+*What do you carry, journalist?*
+
+Raj was silent for a long moment. Then, softly, he said, "Nothing."
+
+The vault's light flared — not gold, but white, blinding, filling the chamber until they all raised their hands to shield their eyes. When it faded, the door was open.
+
+Beyond it was not a chamber of gold, not a treasury of riches, not a vault of wealth. It was a room no larger than a closet, its walls bare stone, its only contents a single table. On the table sat a ledger.
+
+The Steward stepped out of the shadows, his face unreadable. "You gave it nothing," he said. "And it opened."
+
+"Because the vault doesn't want offerings," Raj said. "It wants witnesses. People who have nothing to hide. People who can stand before it without being weighed down by what they've done." He picked up the ledger, opened it. Inside were names — hundreds of them, written in fading ink, each with a date and a single word: *Eliminated.*
+
+"These are the others," he said. "Sixty years of contestants. And none of them won because none of them could let go of what they carried." He closed the ledger, looked at the Steward. "The prize was never the money. The prize was the freedom to walk away empty-handed."
+
+The Steward nodded slowly. "And you've won it."
+
+The clock tower tolled once — a single, deep note that seemed to shake the very foundations of the manor. And in that sound, the five of them understood.
+
+The game was over.
+
+But the vault's door was still open, and the ledger lay on the table, and somewhere above them, in the dining room, the golden tickets sat in a pile of gleaming lies.
+
+Raj looked at the others. "The money is in the bank accounts. I checked. It's real. But it's not the prize."
+
+"What is, then?" Béa asked.
+
+Raj smiled — and it was the first genuine smile any of them had seen from him. "The choice," he said, "to walk away. Together."
+
 ---
 
